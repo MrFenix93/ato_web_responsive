@@ -1,0 +1,82 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ato_report_pdf_options
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/js/qwebactionmanager.js:0
+#, python-format
+msgid "Close"
+msgstr "إغلاق"
+
+#. module: ato_report_pdf_options
+#: model:ir.model.fields,field_description:ato_report_pdf_options.field_ir_actions_report__default_print_option
+msgid "Default printing option"
+msgstr "خيار الطباعة الافتراضي"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/xml/report_pdf_options.xml:0
+#: model:ir.model.fields.selection,name:ato_report_pdf_options.selection__ir_actions_report__default_print_option__download
+#, python-format
+msgid "Download"
+msgstr "تنزيل"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/xml/report_pdf_options.xml:0
+#: model:ir.model.fields.selection,name:ato_report_pdf_options.selection__ir_actions_report__default_print_option__open
+#, python-format
+msgid "Open"
+msgstr "فتح"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/xml/report_pdf_options.xml:0
+#: model:ir.model.fields.selection,name:ato_report_pdf_options.selection__ir_actions_report__default_print_option__print
+#, python-format
+msgid "Print"
+msgstr "طباعة"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/js/qwebactionmanager.js:0
+#, python-format
+msgid "Report"
+msgstr "التقرير"
+
+#. module: ato_report_pdf_options
+#: model:ir.model,name:ato_report_pdf_options.model_ir_actions_report
+msgid "Report Action"
+msgstr "إجراء التقرير"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/js/qwebactionmanager.js:0
+#, python-format
+msgid "What do you want to do?"
+msgstr "ماذا تريد أن تفعل؟"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/xml/report_pdf_options.xml:0
+#, python-format
+msgid "report"
+msgstr "التقرير"
+
+#. module: ato_report_pdf_options
+#. openerp-web
+#: code:addons/ato_report_pdf_options/static/src/xml/report_pdf_options.xml:0
+#, python-format
+msgid "set a default option for this"
+msgstr "تعيين خيار افتراضي لهذا"
