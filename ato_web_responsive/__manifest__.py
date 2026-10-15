@@ -114,7 +114,7 @@
     },
     "installable": True,
     "application": True,	
-    "author": "Agga, IdeaCode Academy; ATO Solution",
+    "author": "ATO Solution,Agga, IdeaCode Academy",
     "images": ["static/description/img.png"],
     "license": "LGPL-3",
 }
